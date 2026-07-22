@@ -12,13 +12,9 @@ Building professional tools for developers, designers, and technical artists wor
 
 </div>
 
----
-
 ## About
 
 GLBKIT develops browser-native tools that simplify modern 3D workflows. Our products are designed to deliver fast, reliable, and production-ready experiences directly in the browser.
-
----
 
 ## Products
 
@@ -35,8 +31,6 @@ An online toolkit for viewing, inspecting, validating, and exporting GLB and glT
 - Screenshot Capture
 - Browser-based Rendering
 
----
-
 ## Technology
 
 | | |
@@ -45,8 +39,6 @@ An online toolkit for viewing, inspecting, validating, and exporting GLB and glT
 | **Language** | TypeScript |
 | **Graphics** | Three.js |
 | **Rendering** | WebGL |
-
----
 
 ## Mission
 
