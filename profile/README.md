@@ -44,8 +44,6 @@ An online toolkit for viewing, inspecting, validating, and exporting GLB and glT
 
 To build modern browser-based tools that make working with 3D assets faster, simpler, and more accessible.
 
----
-
 <div align="center">
 
 `GLBKIT` • `Modern 3D Developer Tools`
