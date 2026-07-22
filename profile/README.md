@@ -1,79 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=GLBKIT&fontSize=72&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=GLBKIT&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=ffffff" width="100%" />
 
-# GLBKIT
+### Modern browser-based tools for 3D workflows.
 
-### Build. Visualize. Ship.
+Building professional tools for developers, designers, and technical artists working with GLB, glTF, and WebGL.
 
-**Developer tools for modern 3D workflows.**
-
-[Website](https://glbkit.com) • [Documentation](https://glbkit.com/docs)
-
----
-
-Building fast, powerful, and browser-native tools for developers,
-designers, and studios working with **GLB**, **glTF**, **WebGL**, and the modern web.
+<p>
+  <a href="https://glbkit.com">Website</a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 Products
+## About
+
+GLBKIT develops browser-native tools that simplify modern 3D workflows. Our products are designed to deliver fast, reliable, and production-ready experiences directly in the browser.
+
+---
+
+## Products
 
 ### GLBKIT
 
-Browser-based toolkit for working with GLB & glTF assets.
+An online toolkit for viewing, inspecting, validating, and exporting GLB and glTF assets.
 
-- ⚡ Instant GLB Viewer
-- 📦 ZIP Asset Support
-- 🎥 High-resolution Screenshot Capture
-- 🌍 Browser-native 3D Rendering
-- 📊 Model Inspection
-- 🔍 Asset Analysis
+**Current capabilities**
 
----
-
-## 🛠 Technology
-
-- Next.js
-- React
-- Three.js
-- React Three Fiber
-- TypeScript
-- WebGL
-- GLSL
-- Tailwind CSS
+- GLB & glTF Viewer
+- ZIP Archive Support
+- Asset Inspection
+- Scene Preview
+- Screenshot Capture
+- Browser-based Rendering
 
 ---
 
-## 🎯 Mission
+## Technology
 
-Create professional-grade browser tools that make 3D asset workflows
-simple, fast, and accessible to everyone.
-
----
-
-## 📂 Repositories
-
-| Repository | Description |
-|------------|-------------|
-| `glbkit.com` | Main website |
-| `glbkit-api` | Backend services |
-| `glbkit-docs` | Documentation |
-| `glbkit-assets` | Static assets |
+| | |
+|:--|:--|
+| **Framework** | Next.js |
+| **Language** | TypeScript |
+| **Graphics** | Three.js |
+| **Rendering** | WebGL |
 
 ---
 
-## 🌐 Links
+## Mission
 
-- Website: https://glbkit.com
-- GitHub: https://github.com/glbkit-com
+To build modern browser-based tools that make working with 3D assets faster, simpler, and more accessible.
 
 ---
 
 <div align="center">
 
-**Built with ❤️ by the GLBKIT Team**
+`GLBKIT` • `Modern 3D Developer Tools`
 
 </div>
